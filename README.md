@@ -3,7 +3,7 @@
 tasks.
 rails g model Task start_time:datetime end_time:datetime  title:string description:text billed:boolean
 
-left off at ch 11
+left off at ch 11.22
 
 This README would normally document whatever steps are necessary to get the
 application up and running.

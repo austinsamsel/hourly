@@ -8,11 +8,11 @@
 #   name: MyString
 #   user_id: 
 
-orange:
+one:
   name: "I just ate an orange!"
   created_at: <%= 10.minutes.ago %>
 
-tau_manifesto:
+two:
   name: "Check out the @tauday site"
   created_at: <%= 3.years.ago %>
 
