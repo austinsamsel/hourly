@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# one:
+#   name: MyString
+#   user_id: 
+
+# two:
+#   name: MyString
+#   user_id: 
+
+orange:
+  name: "I just ate an orange!"
+  created_at: <%= 10.minutes.ago %>
+
+tau_manifesto:
+  name: "Check out the @tauday site"
+  created_at: <%= 3.years.ago %>
+
+cat_video:
+  name: "Sad cats are sad"
+  created_at: <%= 2.hours.ago %>
+
+most_recent:
+  name: "Writing a short test"
+  created_at: <%= Time.zone.now %>

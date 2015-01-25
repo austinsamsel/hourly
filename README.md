@@ -1,5 +1,8 @@
 == README
 
+tasks.
+rails g model Task start_time:datetime end_time:datetime  title:string description:text billed:boolean
+
 left off at ch 11
 
 This README would normally document whatever steps are necessary to get the
