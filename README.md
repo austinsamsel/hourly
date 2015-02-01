@@ -2,6 +2,8 @@
 
 left off at ch 11
 
+client disappeared -- OK. first need to sign in w/ devise and get static page tests to pass.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
